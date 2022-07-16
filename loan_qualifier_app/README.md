@@ -1,7 +1,7 @@
 # Project Title
 
 
-The loan qualifier project was designed to help us identify possible if an individual qualifies for a loan.
+The loan qualifier project was designed to help us identify possible qualification for a loan.
 
 ## Technologies
 
