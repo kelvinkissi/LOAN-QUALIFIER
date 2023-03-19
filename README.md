@@ -46,7 +46,7 @@ Before running the application first install the following dependencies:
 
 User will need to import the following libraries after installing the dependencies above:
 
-![](./Loanqualifiers/imports_loanqualifyer.png)
+![](./loan_qualifier_app/Loanqualifiers/imports_loanqualifyer.png)
 
 # Usage
 
@@ -58,7 +58,7 @@ The criteria for loan qualification includes: credit score, maximum loan amount,
 It is important for the user to ensure that any externally held calculators are properly integrated into the app.
 
 
-![](./Loanqualifiers/import_filters.png)
+![](./loan_qualifier_app/Loanqualifiers/import_filters.png)
 
 
 Therefore the application imports various banks and uses the following arguments to match loans:
@@ -96,7 +96,7 @@ The application will also fecth bank data included in the Repo:
 
 An essential aspect is that the application will prompt the user to input their details as the applicant:
 
-![](./Loanqualifiers/applicant_data.png)
+![](./loan_qualifier_app/Loanqualifiers/applicant_data.png)
 
 
 After receiving the arguments, the application will proceed to compare them with the eligible loan criteria to find suitable matches for the applicants. Upon completion of this process, the application will prompt the applicant to specify if they wish to save the file with corresponding details.
